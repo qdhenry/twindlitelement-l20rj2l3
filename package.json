@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/qdhenry.twindlitelement-l20rj2l3",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 1tuKFZ06POQ9dZyV7Kw8 --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
